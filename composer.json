@@ -1,0 +1,11 @@
+{
+    "name": "mikeaag/phantomjs",
+    "description": "Install the Windows PhantomJS binary file into the vendor/bin folder",
+    "keywords": ["phantomjs"],
+    "homepage": "http://github.com/mikeaag/phantomjs",
+    "license": "BSD",
+    "require": {
+        
+    },
+    "bin": ["bin/phantomjs.exe"]
+}
